@@ -8,7 +8,7 @@
 
 ## 💻 Sobre o projeto
 
-Desenvolvi um sinples desafio de uma página que contém um Theme Switcher(Alternador de Tema) Para colocar Aprendizado em prática.
+Desenvolvi um simples desafio de uma página que contém um Theme Switcher(Alternador de Tema) Para colocar Aprendizado em prática.
 
 ## 🚀 Tecnologias Utilizadas
 
